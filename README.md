@@ -1,2 +1,0 @@
-# Ktds
-ktdsAzureTest
