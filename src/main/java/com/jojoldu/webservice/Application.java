@@ -16,5 +16,8 @@ public class Application {
 		new SpringApplicationBuilder(Application.class)
 				.properties(APPLICATION_LOCATIONS)
 				.run(args);
+
+		System.out.println("hihi");
+
 	}
 }
